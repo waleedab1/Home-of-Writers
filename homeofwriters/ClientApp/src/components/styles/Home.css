@@ -1,0 +1,19 @@
+﻿.home-page-wrapper {
+}
+
+.novel-section-wrapper {
+    display: flex;
+    flex-direction: row;
+    place-content: center;
+    border: solid;
+    background-color: #2b6777;
+    border-color: #ffffff;
+    border-width: 1px;
+}
+
+.novel-section-header {
+    margin: 5px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}

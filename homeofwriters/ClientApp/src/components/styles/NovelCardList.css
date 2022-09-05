@@ -1,0 +1,13 @@
+﻿.novel-card-wrapper{
+    height: 350px;
+    cursor: pointer;
+}
+    .novel-card-wrapper:hover {
+        background-color: #2b6777;
+    }
+
+.novel-img {
+    height: 180px;
+    width: auto;
+    border-radius: 5px;
+}
